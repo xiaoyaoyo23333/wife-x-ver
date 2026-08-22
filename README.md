@@ -17,3 +17,5 @@ https://github.com/zgojin/astrbot_plugin_AW
 https://t.me/WaifuP1c
 
 fork仓管也贡献了些库存
+
+ciallo~
